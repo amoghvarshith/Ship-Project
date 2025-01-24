@@ -37,6 +37,7 @@ const UsaNumbers = () => {
             <p>Price: ${item.price}</p>
           </div>
         ))}
+        <h3>this is reddy ok nah</h3>
       </form>
     </div>
   );
